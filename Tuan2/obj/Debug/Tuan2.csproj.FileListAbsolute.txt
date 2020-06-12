@@ -1,0 +1,6 @@
+c:\users\trung\documents\visual studio 2015\Projects\Tuan2\Tuan2\bin\Debug\Tuan2.exe.config
+c:\users\trung\documents\visual studio 2015\Projects\Tuan2\Tuan2\bin\Debug\Tuan2.exe
+c:\users\trung\documents\visual studio 2015\Projects\Tuan2\Tuan2\bin\Debug\Tuan2.pdb
+c:\users\trung\documents\visual studio 2015\Projects\Tuan2\Tuan2\obj\Debug\Tuan2.csprojResolveAssemblyReference.cache
+c:\users\trung\documents\visual studio 2015\Projects\Tuan2\Tuan2\obj\Debug\Tuan2.exe
+c:\users\trung\documents\visual studio 2015\Projects\Tuan2\Tuan2\obj\Debug\Tuan2.pdb
